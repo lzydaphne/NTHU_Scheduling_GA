@@ -9,3 +9,6 @@
  
 + Machine sequence : 
   the sequence of operations of a job
+
+
+Note: Remove data folder.
